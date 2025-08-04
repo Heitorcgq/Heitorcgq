@@ -1,8 +1,8 @@
-🎓 Cursando o 1º Semestre em Engenharia de Computação
+🎓 Cursando o 1º Semestre em Engenharia de Computação.
 
 💻 Tenho conhecimento nas tecnologias: Python, Django, PostgreSQL, HTML, CSS e JavaScript, com foco em soluções organizadas, eficientes e centradas na experiência do usuário.
 
-📌 Projetos em destaque:
+📌 Projetos que ajudei e estou ajudando a desenvolver:
 
 Sistema de Gestão para Bares: comandas digitais, controle de estoque, painéis dedicados para garçom e gerente, além de área exclusiva para clientes.
 
