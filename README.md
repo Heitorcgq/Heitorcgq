@@ -10,3 +10,13 @@ Site de Hamburgueria com temática RPG: sistema de pedidos gamificado com painel
 
 🚀 Estou sempre em busca de novos desafios, aprendizados e oportunidades para criar soluções que realmente façam a diferença para usuários e negócios.
 
+<p align="left">
+  <a href="mailto:heitorqueirozes@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="www.linkedin.com/in/heitor-coelho-gonçalves-de-queiroz-984a53351" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn" />
+  </a>
+</p>
+
