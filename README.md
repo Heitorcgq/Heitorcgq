@@ -1,4 +1,4 @@
-🎓 Cursando o 1º Semestre em Engenharia de Computação.
+🎓 Cursando o 2º Semestre em Engenharia de Computação.
 
 💻 Tenho conhecimento nas tecnologias: Python, Django, PostgreSQL, HTML, CSS e JavaScript, com foco em soluções organizadas, eficientes e centradas na experiência do usuário.
 
