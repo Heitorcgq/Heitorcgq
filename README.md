@@ -2,7 +2,11 @@
 
 💻 Tenho conhecimento nas tecnologias: Python, Django, PostgreSQL, HTML, CSS e JavaScript, com foco em soluções organizadas, eficientes e centradas na experiência do usuário.
 
-📌 Projetos que ajudei e estou ajudando a desenvolver:
+📌 Projetos que ajudei e estou desenvolvendo:
+
+Emporikos (Sistema de Gestão Comercial): ERP completo com Frente de Caixa (PDV), controle de estoque inteligente, emissão de comprovantes e dashboards financeiros para análise de vendas.
+
+Atendente Virtual com IA (WhatsApp): Chatbot desenvolvido com Python, Redis e LLMs (Llama 3). Possui memória de contexto para conversar naturalmente, realizar vendas complexas e upsell automático, fugindo dos fluxos robóticos tradicionais.
 
 Sistema de Gestão para Bares: comandas digitais, controle de estoque, painéis dedicados para garçom e gerente, além de área exclusiva para clientes.
 
