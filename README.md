@@ -21,5 +21,8 @@ Site de Hamburgueria com temática RPG: sistema de pedidos gamificado com painel
   <a href="https://www.linkedin.com/in/heitor-coelho-gonçalves-de-queiroz-984a53351" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/heitordev.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
